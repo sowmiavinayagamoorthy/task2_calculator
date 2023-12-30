@@ -12,5 +12,6 @@ Simple calculator allows users to perform simple calculations
 
 - Performs Arithmetic operations(addition, subtraction, multiplication, division)
 - Clears whole expression
-- Deletes singlr digits
+- Deletes single digits
 - Shows history of calculation
+- GUI based interface
